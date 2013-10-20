@@ -1,0 +1,85 @@
+project_id: "526404ef656535e001006df2"
+project_name: "A story of bad luck"
+project_version: "1"
+author_name: "DeBM"
+synopsis: ""
+has_story: true
+preview_image: "preview"
+content_pack_dependencies {
+  package_id: "518d7671643431b03f0041a8"
+  package_version: "1"
+  package_name: "ShadowrunCore"
+  package_description: "Core Shadowrun Returns functionality"
+}
+content_pack_dependencies {
+  package_id: "520ad5013937317420005b89"
+  package_version: "1.0.0"
+  package_name: "high_class_apartment"
+  package_description: "High Class Apartment"
+}
+content_pack_dependencies {
+  package_id: "520a965b343233e018007665"
+  package_version: "1"
+  package_name: "Henshep\'s Props"
+  package_description: "Henshep\'s Props"
+}
+content_pack_dependencies {
+  package_id: "522538f63733611810008015"
+  package_version: "1.1"
+  package_name: "geeked"
+  package_description: "portraits and props"
+}
+content_pack_dependencies {
+  package_id: "521ddfc3633835cc120018bf"
+  package_version: "1"
+  package_name: "Seattle Transit Project"
+  package_description: "Props for the Transit Maps"
+}
+content_pack_dependencies {
+  package_id: "51f6d2a26434316217e50a09"
+  package_version: "1.01"
+  package_name: "StairsAndDoors"
+  package_description: "More Stairs And Doors"
+}
+content_pack_dependencies {
+  package_id: "51feb3f0316562a80e00002a"
+  package_version: "1..02"
+  package_name: "mhground"
+  package_description: "Mad Hatter\'s Ground Tile Pack"
+}
+content_pack_dependencies {
+  package_id: "518d7672643431b03f0041aa"
+  package_version: "1"
+  package_name: "Seattle"
+  package_description: "Seattle Area Environments and Tilesets"
+}
+content_pack_dependencies {
+  package_id: "52260e6c646630402900164a"
+  package_version: "1.0"
+  package_name: "Memphis Motors"
+  package_description: "Memphis Motors - Vehicle Prop Pack"
+}
+content_pack_dependencies {
+  package_id: "518d7674643431b03f0041ab"
+  package_version: "1"
+  package_name: "DeadMansSwitch"
+  package_description: "The Dead Man\'s Switch"
+}
+content_pack_dependencies {
+  package_id: "5204ab09316562941500002a"
+  package_version: "1.01"
+  package_name: "mhtree"
+  package_description: "Mad Hatter\'s Nature Pack (Merged)"
+}
+content_pack_dependencies {
+  package_id: "51f586f2636465943a00002a"
+  package_version: "1.2"
+  package_name: "Sprawl Sites"
+  package_description: "Sprawl Sites"
+}
+content_pack_dependencies {
+  package_id: "51f307273464314c240018bf"
+  package_version: "1"
+  package_name: "Props and Stuff"
+  package_description: "Props and Stuff"
+}
